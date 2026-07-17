@@ -1,0 +1,29 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.techstars.com/leadership-team
+type: Team
+team:
+  - name: David Cohen
+    role: Co-Founder & CEO
+    source: https://www.techstars.com/newsroom/david-cohen-returns-as-ceo-of-techstars
+  - name: David Brown
+    role: Co-Founder
+    source: https://www.techstars.com/about
+  - name: Brad Feld
+    role: Co-Founder
+    source: https://www.techstars.com/about
+  - name: Jared Polis
+    role: Co-Founder
+    source: https://www.techstars.com/about
+  - name: Jonathan Geehan
+    role: Chief Financial Officer
+    source: https://www.techstars.com/leadership-team
+  - name: Tarun Reddy
+    role: Chief Technology Officer
+    source: https://www.techstars.com/leadership-team
+  - name: Scott Ford
+    role: Chief Operating Officer
+    source: https://www.techstars.com/leadership-team
+  - name: Nicole Glaros
+    role: Chief Investment Strategy Officer
+    source: https://www.techstars.com/leadership-team

@@ -1,0 +1,88 @@
+aid: techstars
+name: Techstars
+description: >-
+  Techstars is a global pre-seed startup accelerator and investor founded in 2006 by David Cohen, Brad
+  Feld, David Brown, and Jared Polis in Boulder, Colorado, and headquartered in New York City. Operating a
+  worldwide network of mentorship-driven accelerator programs across cities including Boulder, Boston,
+  Chicago, New York, London, and Tokyo, Techstars runs an intensive three-month program that provides each
+  accepted company roughly $220,000 in capital — a $20,000 convertible equity agreement for a minimum 5%
+  of common stock plus an optional $200,000 uncapped MFN post-money SAFE (Asia-Pacific programs at
+  ~$100,000). The firm is largely sector-agnostic but is especially active in AI/ML, fintech, SaaS,
+  developer tools, healthcare, climate, space and defense, and critical infrastructure, and operates on its
+  signature "Give First" philosophy. Techstars has backed more than 10,000 founders, producing dozens of
+  unicorns and notable companies including Twilio, SendGrid, DigitalOcean, Uber, Remitly, Chainalysis,
+  ClassPass, DataRobot, and PillPack, with portfolio companies collectively raising tens of billions in
+  follow-on capital.
+image: https://www.techstars.com/favicon.ico
+x-type: venture-capital
+x-category: Accelerator
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Accelerator
+  - Pre-Seed
+  - Seed
+  - Developer Tools
+  - Fintech
+  - Artificial Intelligence
+  - SaaS
+  - Healthcare
+  - Climate
+  - Space & Defense
+  - Global
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.techstars.com/
+  - type: Portfolio
+    url: https://www.techstars.com/portfolio
+  - type: Portfolio
+    url: portfolio/techstars-portfolio.yml
+  - type: Team
+    url: https://www.techstars.com/leadership-team
+  - type: Team
+    url: team/techstars-team.yml
+  - type: InvestmentThesis
+    url: https://www.techstars.com/about
+  - type: Pitch
+    url: https://apply.techstars.com/
+  - type: Blog
+    url: https://www.techstars.com/blog
+  - type: News
+    url: https://www.techstars.com/newsroom
+  - type: Newsletter
+    url: https://accelerate.techstars.com/en/techstars-newsletter-subscribe
+  - type: Jobs
+    url: https://www.techstars.com/careers
+  - type: Contact
+    url: https://www.techstars.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/techstars/
+  - type: Twitter
+    url: https://twitter.com/techstars
+  - type: Features
+    data:
+      - "Stage: Pre-Seed, Seed (accelerator) with selective follow-on"
+      - "Typical check: ~$220,000 ($20,000 CEA for min 5% common stock + $200,000 uncapped MFN post-money SAFE; ~$100,000 in Asia-Pacific programs)"
+      - "Program: 3-month mentorship-driven accelerator, no participation fee"
+      - "Sectors: Sector-agnostic; active in AI/ML, fintech, SaaS, developer tools, healthcare, climate, space & defense, critical infrastructure"
+      - "Geography: Global network of accelerators (Boulder, Boston, Chicago, New York, London, Tokyo, and more)"
+      - "Portfolio: 10,000+ founders backed; ~973 companies captured from the public portfolio page"
+      - "Founded: 2006"
+      - "HQ: New York City, USA (originated Boulder, Colorado)"
+    sources:
+      - https://www.techstars.com/about
+      - https://www.techstars.com/newsroom/investment-terms
+      - https://www.techstars.com/portfolio
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Techstars
+    url: https://www.techstars.com/
