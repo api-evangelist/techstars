@@ -13,6 +13,17 @@ description: >-
   unicorns and notable companies including Twilio, SendGrid, DigitalOcean, Uber, Remitly, Chainalysis,
   ClassPass, DataRobot, and PillPack, with portfolio companies collectively raising tens of billions in
   follow-on capital.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.techstars.com/favicon.ico
 x-type: venture-capital
 x-category: Accelerator
