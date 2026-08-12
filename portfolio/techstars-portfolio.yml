@@ -12,7 +12,7 @@ companies:
   url: https://alloy.co/
   status: unknown
   source: https://www.techstars.com/portfolio
-  slug: alloy
+  slug: alloy-com
   in_network: true
   is_api_provider: true
   matched_by: domain
