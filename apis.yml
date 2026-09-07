@@ -71,6 +71,18 @@ tags_raw:
   - North America
 apis: []
 common:
+  - type: About
+    url: https://www.techstars.com/about
+  - type: SignUp
+    url: https://apply.techstars.com/
+  - type: HelpCenter
+    url: https://help.techstars.com/support/home
+  - type: TermsOfService
+    url: https://www.techstars.com/terms-of-use
+  - type: PrivacyPolicy
+    url: https://www.techstars.com/privacy-policy
+  - type: DomainSecurity
+    url: security/techstars-domain-security.yml
   - type: Website
     url: https://www.techstars.com/
   - type: Portfolio
