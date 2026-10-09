@@ -4268,10 +4268,9 @@ companies:
   url: https://balance.ca/
   status: unknown
   source: https://www.techstars.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: balance
-  matched_by: name-slug
+  suggested_slug: ''  # was mislinked by name to balance; the company is balance.ca
 - name: SkenarioLabs
   url: https://skenariolabs.com/
   status: unknown
@@ -6076,10 +6075,9 @@ companies:
   url: https://hellopolygon.com/
   status: unknown
   source: https://www.techstars.com/portfolio
-  slug: polygon
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ''
 - name: Naviday Health
   url: https://navidayhealth.com/
   status: unknown
